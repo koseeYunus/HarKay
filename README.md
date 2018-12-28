@@ -1,2 +1,2 @@
 # HarKay
-Kamerada hareket algılandığında frame i klasöre kaydettirme.
+When motion is detected on the camera, the frame is recorded in the folder.
