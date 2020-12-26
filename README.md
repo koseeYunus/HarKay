@@ -1,2 +1,2 @@
 # HarKay
-Kamera hareket algılandığında, yakalanılan frame'in klasöre kaydeder.
+Kamera hareket algılandığında, yakalanılan frame'i klasöre kaydeder.
